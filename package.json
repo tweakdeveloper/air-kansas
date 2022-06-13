@@ -1,0 +1,16 @@
+{
+  "name": "air-kansas",
+  "version": "0.0.1",
+  "private": true,
+  "repository": "git@github.com:tweakdeveloper/air-kansas.git",
+  "author": "Nicola Clark <nicola@slottedspoon.dev>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.12"
+  }
+}
